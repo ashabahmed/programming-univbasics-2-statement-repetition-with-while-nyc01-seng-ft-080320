@@ -5,3 +5,4 @@ while countdown <= 10 do
   puts countdown
   countdown = countdown - 1
 end
+puts "Happy New Year!"
